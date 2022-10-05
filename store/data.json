@@ -1,0 +1,34 @@
+[
+  {
+    "name": "hoge",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 300000,
+    "date": "2022-05-20"
+  },
+  {
+    "name": "test",
+    "category": {
+      "Expense": "Hobby"
+    },
+    "price": 1000,
+    "date": "2022-05-25"
+  },
+  {
+    "name": "hoge6",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 320000,
+    "date": "2022-06-20"
+  },
+  {
+    "name": "test6",
+    "category": {
+      "Expense": "Hobby"
+    },
+    "price": 20000,
+    "date": "2022-06-25"
+  }
+]
